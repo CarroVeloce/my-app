@@ -113,7 +113,7 @@
       <br />
       <label style={{ display: 'flex', alignItems: 'center', color: 'white' }}>
         <input type="checkbox" name="checkbox3" value="checkbox3" style={{ marginRight: '5px' }} />
-        SEMUR JENGKOL
+        JENGKOL BALADO
       </label>
       <br />
 {/* BUAT PILIH LAUK*/}
@@ -170,6 +170,11 @@
         JENGKOL BALADO
       </label>
       <br />
+      <label style={{ display: 'flex', alignItems: 'center', color: 'white' }}>
+        <input type="checkbox" name="checkbox3" value="checkbox3" style={{ marginRight: '5px' }} />
+        JENGKOL BALADO
+      </label>
+      <br />
 {/* BUAT PILIH LAUK*/}
           <button className="tombol remove-from-cart" onClick={() => removeFromCart({ name: 'NASI LAUK 2', price: 15000 })}>
             -
@@ -216,6 +221,11 @@
       <label style={{ display: 'flex', alignItems: 'center', color: 'white' }}>
         <input type="checkbox" name="checkbox3" value="checkbox3" style={{ marginRight: '5px' }} />
         JAMUR CRISPY
+      </label>
+      <br />
+      <label style={{ display: 'flex', alignItems: 'center', color: 'white' }}>
+        <input type="checkbox" name="checkbox3" value="checkbox3" style={{ marginRight: '5px' }} />
+        JENGKOL BALADO
       </label>
       <br />
       <label style={{ display: 'flex', alignItems: 'center', color: 'white' }}>
