@@ -111,6 +111,11 @@
         JENGKOL BALADO
       </label>
       <br />
+      <label style={{ display: 'flex', alignItems: 'center', color: 'white' }}>
+        <input type="checkbox" name="checkbox3" value="checkbox3" style={{ marginRight: '5px' }} />
+        SEMUR JENGKOL
+      </label>
+      <br />
 {/* BUAT PILIH LAUK*/}
 
             <button className="tombol remove-from-cart" onClick={() => removeFromCart({ name: 'NASI LAUK 1', price: 10000 })}>
