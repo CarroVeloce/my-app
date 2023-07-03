@@ -1,0 +1,156 @@
+.box1 {
+   
+    background-color: #970000;
+    border-radius: 10px;
+    box-shadow: 0 5px 8px rgba(0, 0, 0, .9);
+    padding: 10px;
+    flex: 1;
+    margin-right: 50px;
+    margin-left: 50px;
+    text-align: center;
+  }
+
+  .box2 {
+    margin-top: 10px;
+    background-color: #740000;
+    border-radius: 58px;
+    box-shadow: 0 5px 8px rgba(0, 0, 0, .5);
+    padding: 10px;
+    flex: 1;
+    margin-right:600px;
+    margin-left: 600px;
+    text-align: center;
+  }
+
+  .tombol {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    font-size: 18px;
+    text-align: center;
+    cursor: pointer;
+    background-color: red;
+    color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .5);
+    border-radius: 5px;
+  }
+  
+  .tombol:hover {
+    background-color: #ddd;
+  }
+  
+  .tombol:focus {
+    outline: none;
+  }
+  .Menu {
+    text-align: center;
+  }
+  .body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+ 
+  }
+
+  .item {
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ccc;
+  }
+
+  .item h3 {
+    margin-top: 0;
+  }
+
+  .item p {
+    margin-bottom: 5px;
+  }
+
+  .item input {
+    margin-bottom: 10px;
+  }
+
+  .cart {
+    margin-top: 20px;
+  }
+
+  .cart h2 {
+    margin-top: 0;
+  }
+
+  .box {
+    margin-top: 60px;
+    display: flex;
+    text-align: center;
+    background-color: #e90000;
+    border-radius: 15px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .5);
+    padding: 10px;
+ 
+  }
+
+  .box3 {
+    margin-top: 60px;
+    display: flex;
+    background-color: #e90000;
+    border-radius: 15px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .8);
+    padding: 60px;
+ 
+  }
+
+  header {
+    background-color: #640000;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+  }
+
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .tombol {
+    background-color: red;
+    color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .5);
+    border-radius: 5px;
+  }
+
+  .quantity{
+    margin: 25px;
+    text-align: center;
+    color: white;
+  }
+
+  img{
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.378);
+  }
+  
+  
