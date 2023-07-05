@@ -25,7 +25,7 @@ const Home = () => {
       <div className="boxmenu">
         <span>WARTEG T-34/85</span>
         <p>"PERUT ANDA KENYANG" "DOMPET KAMI SENANG"</p>
-        <Link to="/menu" className="menu-button">Lihat Menu</Link>
+        <Link to="/Menu" className="menu-button">Lihat Menu</Link>
       </div>
       <div style={{ height: '100vh', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
         <img src={images[currentImageIndex]} alt="Gambar" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />

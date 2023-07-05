@@ -14,16 +14,27 @@ const Navigation = () => {
               className="text-white hover:text-gray-300 font-semibold"
               style={{ borderBottom: '2px solid white' }}
             >
-              Beranda
+              Home
             </a>
           </li>
+          
+          <li>
+            <a
+              href="/menu"
+              className="text-white hover:text-gray-300 font-semibold"
+              style={{ borderBottom: '2px solid white' }}
+            >
+              Menu
+            </a>
+          </li>
+
           <li>
             <a
               href="/about"
               className="text-white hover:text-gray-300 font-semibold"
               style={{ borderBottom: '2px solid white' }}
             >
-              Tentang
+              About
             </a>
           </li>
           <li>
@@ -32,16 +43,7 @@ const Navigation = () => {
               className="text-white hover:text-gray-300 font-semibold"
               style={{ borderBottom: '2px solid white' }}
             >
-              Kontak
-            </a>
-          </li>
-          <li>
-            <a
-              href="/menu"
-              className="text-white hover:text-gray-300 font-semibold"
-              style={{ borderBottom: '2px solid white' }}
-            >
-              Menu
+              Profile
             </a>
           </li>
         </ul>
