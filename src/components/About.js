@@ -55,12 +55,10 @@ const About = () => {
           <div class="p-6">
             <h5 class="mb-2 text-lg font-bold  text-white">Razita Nazla Febriani</h5>
             <h6 class="mb-4 font-medium text-primary dark:text-primary-400 text-white">
-              Marketing Specialist
+              Pelajar/Mahasiswa
             </h6>
             <p class="text-white">
-              At vero eos et accusamus et iusto odio dignissimos ducimus qui
-              blanditiis praesentium accusamus contestatur voluptatum
-              deleniti atque corrupti.
+              Saya biasa dipanggil Razita. Saya adalah seorang mahasiswa di Politeknik Negeri Jakarta. Saya berumur 19 tahun yang hobi mendengarkan musik dan membaca. Kulineran juga termasuk kesukaan saya.
             </p>
           </div>
         </div>
