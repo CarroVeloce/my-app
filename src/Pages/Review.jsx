@@ -1,6 +1,6 @@
 import Contact from '../components/Contact'
 import Footer from '../components/Footer'
-const Kontak = () => {
+const Review = () => {
     return(
         <div>
             <Contact />
@@ -9,4 +9,4 @@ const Kontak = () => {
     )
 }
 
-export default Kontak
+export default Review

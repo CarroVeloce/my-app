@@ -204,7 +204,7 @@
       </label>
       <br />
       <label style={{ display: 'flex', alignItems: 'center', color: 'white' }}>
-        <input type="checkbox" name="checkbox3" value="checkbox3" style={{ marginRight: '5px' }} />
+        <input type="checkbox" name="checkbox4" value="checkbox4" style={{ marginRight: '5px' }} />
         TAHU/TEMPE GORENG
       </label>
       <br />

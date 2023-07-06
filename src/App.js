@@ -4,7 +4,7 @@ import Tentang from "./Pages/Tentang";
 import Menu from "./Pages/Menu";
 import Navigation from "./components/Navigation";
 import Index from "./Pages/Index";
-import Kontak from "./Pages/Kontak";
+import Review from "./Pages/Review";
 
 const App = () => {
   return (
@@ -13,7 +13,7 @@ const App = () => {
       <Routes>
         <Route path="/" element={<Index />} />
         <Route path="/about" element={<Tentang />} />
-        <Route path="/contact" element={<Kontak />} />
+        <Route path="/review" element={<Review />} />
         <Route path="/menu" element={<Menu />} />
       </Routes>
     </Router>
