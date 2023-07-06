@@ -10,7 +10,7 @@ const Footer = () =>{
             <a className="font-semibold" href="mailto:m.sohanemon@gmail.com">Arjuna Dwi Damara Putra</a>
           </p>
           <p style={{ color: 'white' }}>
-            <a className="font-semibold" href="mailto:m.sohanemon@gmail.com">SohanEmon</a>
+            <a className="font-semibold" href="mailto:razita.nazla.febriani.tik22@mhsw.pnj.ac.id">Razita Nazla Febriani</a>
           </p>
         </div>
       </footer>

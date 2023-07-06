@@ -71,7 +71,7 @@
         <div className="box3">
           <div className="box1">
             <h3 style={{ fontWeight: 'bold', color: 'white', fontSize: '25px', margin: '25px' }}>NASI LAUK 1</h3>
-            <img src="https://foodierate.com/uploads/fullsize/103754/15JoHd633942f072da7_lele-goreng-laos-bebek-carok.jpg" alt="NASI LAUK1" style={{ borderRadius: '5%'}} />
+            <img src="https://cdn.discordapp.com/attachments/1125426619230732308/1126654411180085259/2354134643.jpeg" alt="NASI LAUK1" style={{ borderRadius: '5%', height: '250px', width: "450px"}} />
             <p style={{ color: 'white', fontSize: '40px', marginTop: '25px', fontWeight: 'bold' }}>Rp. 8 000</p>
             <p style={{ color: 'white', fontSize: '18px', marginBottom: '25px', marginTop: '25px', fontWeight: 'bold' }}>Nasi dengan pilihan satu lauk, lauk bisa dipilih di bawah</p>
             
@@ -131,7 +131,7 @@
 {/* MENU 2 */}
           <div className="box1">
           <h3 style={{ fontWeight: 'bold', color: 'white', fontSize: '25px', margin: '25px' }}>NASI LAUK 2</h3>
-          <img src="https://asset.kompas.com/crop/0x83:1000x750/750x500/data/photo/2018/11/08/3938075.JPG" alt="NASI LAUK2" style={{ borderRadius: '5%', height: '255px' }} />
+          <img src="https://cdn.discordapp.com/attachments/1125426619230732308/1126654177272148069/3938075.jpeg" alt="NASI LAUK2" style={{ borderRadius: '5%', height: '255px' }} />
           <p style={{ color: 'white', fontSize: '40px', marginTop: '25px', fontWeight: 'bold' }}>Rp. 10 000</p>
           <p style={{ color: 'white', fontSize: '18px', marginBottom: '25px', marginTop: '25px',fontWeight: 'bold'  }}>Nasi dengan pilihan dua lauk, lauk bisa dipilih di bawah</p>
 {/* BUAT PILIH LAUK */}
@@ -189,7 +189,7 @@
 {/* MENU 3 */}
           <div className="box1">
             <h3 style={{fontWeight: 'bold', color: 'white', fontSize: '25px', margin: '25px' }}>NASI LAUK 3</h3>
-            <img src="https://assets-pergikuliner.com/ofndVez-WAiXOq_9f0pJPyW5v6Q=/fit-in/1516x1196/smart/filters:no_upscale()/https://assets-pergikuliner.com/uploads/image/picture/1181678/picture-1544247424.jpg" alt="NASI LAUK2" style={{ borderRadius: '5%', height: '250px', width: "450px" }} />
+            <img src="https://cdn.discordapp.com/attachments/1125426619230732308/1126654177037258903/picture-1544247424.jpg" alt="NASI LAUK2" style={{ borderRadius: '5%', height: '250px', width: "450px" }} />
             <p style={{color: 'white', fontSize: '40px', marginTop: '25px', fontWeight: 'bold' }}>Rp. 14 000</p>
             <p style={{ color: 'white', fontSize: '18px', marginBottom: '25px', marginTop: '25px',fontWeight: 'bold'  }}>Nasi dengan pilihan tiga lauk, lauk bisa dipilih di bawah</p>
 {/* BUAT PILIH LAUK */}
