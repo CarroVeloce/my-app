@@ -24,7 +24,7 @@ const About = () => {
             </div>
           </div>
           <div class="p-6">
-            <h5 class="mb-2 text-lg font-bold  text-white">Arjuna Dwi Damara Putra</h5>
+            <h5 class="mb-2 text-lg font-bold text-white ">Arjuna Dwi Damara Putra</h5>
             <h6 class="mb-4 font-medium text-primary dark:text-primary-400  text-white">
               Web Developer
             </h6>
@@ -53,7 +53,7 @@ const About = () => {
             </div>
           </div>
           <div class="p-6">
-            <h5 class="mb-2 text-lg font-bold  text-white">Halley Frank</h5>
+            <h5 class="mb-2 text-lg font-bold  text-white">Razita Nazla Febriani</h5>
             <h6 class="mb-4 font-medium text-primary dark:text-primary-400 text-white">
               Marketing Specialist
             </h6>
