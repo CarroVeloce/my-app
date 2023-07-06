@@ -189,7 +189,7 @@
 {/* MENU 3 */}
           <div className="box1">
             <h3 style={{fontWeight: 'bold', color: 'white', fontSize: '25px', margin: '25px' }}>NASI LAUK 3</h3>
-            <img src="https://cdn.discordapp.com/attachments/1125426619230732308/1126654177037258903/picture-1544247424.jpg" alt="NASI LAUK2" style={{ borderRadius: '5%', height: '250px', width: "450px" }} />
+            <img src="https://cdn.discordapp.com/attachments/1125426619230732308/1126656008366862386/2470738814.jpg" alt="NASI LAUK3" style={{ borderRadius: '5%', height: '250px', width: "450px" }} />
             <p style={{color: 'white', fontSize: '40px', marginTop: '25px', fontWeight: 'bold' }}>Rp. 14 000</p>
             <p style={{ color: 'white', fontSize: '18px', marginBottom: '25px', marginTop: '25px',fontWeight: 'bold'  }}>Nasi dengan pilihan tiga lauk, lauk bisa dipilih di bawah</p>
 {/* BUAT PILIH LAUK */}
