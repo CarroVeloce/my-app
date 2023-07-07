@@ -6,9 +6,9 @@ const Home = () => {
   
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
   const images = [
-    "https://www.goodnewsfromindonesia.id/uploads/post/large-goodnewsfromindonesia-gnfi-menu-warteg-ac1d395b67ebc01401488e05f890fbd6.jpg",
-    "https://resepkoki.id/wp-content/uploads/2017/09/Warteg.jpeg",
-    "https://2.bp.blogspot.com/-fanHLZ6vQtw/UKyBWdk-LPI/AAAAAAAAAdw/1iUQCCi57ec/s1600/P1000442.JPG",
+    "https://cdn.discordapp.com/attachments/1125426619230732308/1126858297513877665/Warteg.webp",
+    "https://cdn.discordapp.com/attachments/1125426619230732308/1126858298101084170/large-goodnewsfromindonesia-gnfi-menu-warteg-ac1d395b67ebc01401488e05f890fbd6.jpg",
+    "https://cdn.discordapp.com/attachments/1125426619230732308/1126858298528895056/P1000442.JPG",
   ];
 
   useEffect(() => {
