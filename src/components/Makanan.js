@@ -3,7 +3,6 @@ import "./Makanan.css";
 const Makanan = () => {
   const [cartItems, setCartItems] = useState([]);
   const [cartTotal, setCartTotal] = useState(0);
-  const [pesan, setPesan] = useState("");
 
   useEffect(() => {
     const updateTotalPrice = () => {
