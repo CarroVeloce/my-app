@@ -15,7 +15,7 @@ const About = () => {
             <div
               class="relative mx-4 -mt-4 w-full overflow-hidden rounded-lg bg-cover bg-no-repeat shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)]"
               data-te-ripple-init data-te-ripple-color="light">
-              <img src="https://cdn.discordapp.com/attachments/1125426619230732308/1126663862666657943/160777445_529837201357748_3318328582058695100_.jpg" class="w-full" />
+              <img src="https://cdn.discordapp.com/attachments/1125426619230732308/1126663862666657943/160777445_529837201357748_3318328582058695100_.jpg" alt="arjuna" class="w-full" />
               <a href="https://www.facebook.com/nomouth.gun">
                 <div
                   class="absolute top-0 right-0 bottom-0 left-0 h-full w-full overflow-hidden bg-[hsl(0,0%,98.4%,0.15)] bg-fixed opacity-0 transition duration-300 ease-in-out hover:opacity-100">
@@ -42,7 +42,7 @@ const About = () => {
             <div
               class="relative mx-4 -mt-4 w-full overflow-hidden rounded-lg bg-cover bg-no-repeat shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)]"
               data-te-ripple-init data-te-ripple-color="light">
-              <img src="https://cdn.discordapp.com/attachments/1125426619230732308/1126663862922530836/226415811_606376957037105_5029654793496987403_.jpg" class="w-half" />
+              <img src="https://cdn.discordapp.com/attachments/1125426619230732308/1126663862922530836/226415811_606376957037105_5029654793496987403_.jpg" alt="razita" class="w-half" />
               <a href="https://instagram.com/razitanazlafeb?igshid=MzNlNGNkZWQ4Mg">
                 <div
                   class="absolute top-0 right-0 bottom-0 left-0 h-full w-full overflow-hidden bg-[hsl(0,0%,98.4%,0.15)] bg-fixed opacity-0 transition duration-300 ease-in-out hover:opacity-100">

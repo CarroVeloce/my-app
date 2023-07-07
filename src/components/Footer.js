@@ -7,7 +7,7 @@ const Footer = () =>{
         <div className="text-center">
           <p style={{ color: 'white' }}>
             WARTEG T-34/85 © 2023 -
-            <a className="font-semibold" href="mailto:m.sohanemon@gmail.com">Arjuna Dwi Damara Putra</a>
+            <a className="font-semibold" href="mailto:arjuna.dwi.damara.putra.tik22@mhsw.pnj.ac.id">Arjuna Dwi Damara Putra</a>
           </p>
           <p style={{ color: 'white' }}>
             <a className="font-semibold" href="mailto:razita.nazla.febriani.tik22@mhsw.pnj.ac.id">Razita Nazla Febriani</a>
