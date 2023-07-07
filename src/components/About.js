@@ -29,7 +29,7 @@ const About = () => {
               Mahasiswa
             </h6>
             <p class="text-white">
-            Saya biasa dipanggil Razita. Saya adalah seorang mahasiswa di Politeknik Negeri Jakarta. Saya berumur 19 tahun yang hobi mendengarkan musik dan bermain game Minecraft.
+            Saya biasa dipanggil Arjuna. Saya adalah seorang mahasiswa di Politeknik Negeri Jakarta. Saya berumur 19 tahun yang hobi mendengarkan musik dan bermain game Minecraft.
             </p>
           </div>
         </div>
