@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import './Home.css';
 
 const Home = () => {
+  
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
   const images = [
     "https://www.goodnewsfromindonesia.id/uploads/post/large-goodnewsfromindonesia-gnfi-menu-warteg-ac1d395b67ebc01401488e05f890fbd6.jpg",

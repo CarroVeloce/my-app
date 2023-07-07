@@ -26,7 +26,7 @@ const About = () => {
           <div class="p-6">
             <h5 class="mb-2 text-lg font-bold text-white ">Arjuna Dwi Damara Putra</h5>
             <h6 class="mb-4 font-medium text-primary dark:text-primary-400  text-white">
-              Web Developer
+              Mahasiswa
             </h6>
             <p class="text-white">
             Saya biasa dipanggil Razita. Saya adalah seorang mahasiswa di Politeknik Negeri Jakarta. Saya berumur 19 tahun yang hobi mendengarkan musik dan bermain game Minecraft.
