@@ -570,7 +570,7 @@ const Makanan = () => {
               fontWeight: "bold",
               color: "white",
               fontSize: "38px",
-              margin: "40px",
+              paddingTop: "50px"
             }}
           >
             NASI CAMPUR
@@ -587,7 +587,7 @@ const Makanan = () => {
               color: "white",
               fontSize: "50px",
               fontWeight: "bold",
-              marginTop: "90px",
+              paddingTop: "78px",
             }}
           >
             Rp. 18 000
