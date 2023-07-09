@@ -85,7 +85,7 @@ const Makanan = () => {
               fontWeight: "bold",
               color: "white",
               fontSize: "25px",
-              margin: "25px",
+              margin: "29px",
             }}
           >
             NASI LAUK 1
