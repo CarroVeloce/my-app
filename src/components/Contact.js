@@ -1,9 +1,19 @@
 // src/components/Contact.js
 import React from "react";
+import "./Makanan.css";
 
 const Contact = () => {
   return (
+    <div>
+      <header>
+        <h1
+          style={{ fontWeight: "bold", textAlign: "center", fontSize: "36px" }}
+        >
+          REVIEW
+        </h1>
+      </header>
     <div className="flex items-center justify-center h-screen ">
+      
       <div className="bg-red-700 font-semibold text-center rounded-3xl border shadow-lg p-10 max-w-xs m-20">
         <img className="mb-3 w-32 h-32 rounded-full shadow-lg mx-auto" src="https://cdn.discordapp.com/attachments/1125426619230732308/1126144544296140880/Snapinsta.app_308000733_1133744150892544_3270023260099902961_n_1080.jpg" alt="product designer" />
         <h1 className="text-lg text-white font-bold "> Nomouth Gun</h1>
@@ -22,6 +32,8 @@ const Contact = () => {
         <h3 className="text-m text-white ">Mahasiswa</h3>
         <p className="text-s text-white mt-4">Walaupun Warteg T-34/85 adalah warteg yang memiliki konsep yang modern, tapi harga makanan di warteg ini masih sangat murah pas di kantong Mahasiswa</p>
       </div>
+      
+    </div>
     </div>
     
 

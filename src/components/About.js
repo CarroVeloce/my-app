@@ -1,16 +1,22 @@
 import React from "react";
 const About = () => {
   return (
+    <div>
+      <header>
+        <h1
+          style={{ fontWeight: "bold", textAlign: "center", fontSize: "36px" }}
+        >
+          ABOUT US
+        </h1>
+      </header>
 
 <div class="container my-24 mx-auto md:px-6">
-  {/* <!-- Section: Design Block --> */}
   <section class="mb-32 text-center">
-    <h2 class="mb-20 text-center text-3xl font-bold">ABOUT US</h2>
     <div class="grid gap-6 md:grid-cols-2 xl:gap-x-50">
       
       <div class="mb-6 lg:mb-0">
         <div
-          class="relative block rounded-lg bg-red-700 shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] dark:bg-neutral-700">
+          class="relative block rounded-lg bg-red-700">
           <div class="flex">
             <div
               class="relative mx-4 -mt-4 w-full overflow-hidden rounded-lg bg-cover bg-no-repeat shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)]"
@@ -37,7 +43,7 @@ const About = () => {
 
       <div class="mb-6 lg:mb-0">
         <div
-          class="relative block rounded-lg bg-red-700 shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] dark:bg-neutral-700">
+          class="relative block rounded-lg bg-red-700">
           <div class="flex">
             <div
               class="relative mx-4 -mt-4 w-full overflow-hidden rounded-lg bg-cover bg-no-repeat shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)]"
@@ -64,6 +70,7 @@ const About = () => {
     </div>
   </section>
  
+</div>
 </div>
 
  
