@@ -12,7 +12,7 @@ const Contact = () => {
           REVIEW
         </h1>
       </header>
-    <div className="flex items-center justify-center h-screen ">
+    <div className="flex items-center justify-center">
       
       <div className="bg-red-700 font-semibold text-center rounded-3xl border shadow-lg p-10 max-w-xs m-20">
         <img className="mb-3 w-32 h-32 rounded-full shadow-lg mx-auto" src="https://cdn.discordapp.com/attachments/1125426619230732308/1126144544296140880/Snapinsta.app_308000733_1133744150892544_3270023260099902961_n_1080.jpg" alt="product designer" />
