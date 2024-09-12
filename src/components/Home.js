@@ -6,9 +6,9 @@ const Home = () => {
   
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
   const images = [
-    "https://discordapp.com/channels/890166217199992853/1125426619230732308/1126858299061575721",
-    "https://discordapp.com/channels/890166217199992853/1125426619230732308/1126858299061575721",
-    "https://discordapp.com/channels/890166217199992853/1125426619230732308/1126858299061575721",
+    "https://cdn.discordapp.com/attachments/1125426619230732308/1126858298528895056/P1000442.JPG?ex=66e38cd2&is=66e23b52&hm=e100e5f87164ab3aca4fcb1823569b29b6c7de803f4229abcd42a359bdeb65ff&",
+    "https://cdn.discordapp.com/attachments/1125426619230732308/1126858298528895056/P1000442.JPG?ex=66e38cd2&is=66e23b52&hm=e100e5f87164ab3aca4fcb1823569b29b6c7de803f4229abcd42a359bdeb65ff&",
+    "https://cdn.discordapp.com/attachments/1125426619230732308/1126858298528895056/P1000442.JPG?ex=66e38cd2&is=66e23b52&hm=e100e5f87164ab3aca4fcb1823569b29b6c7de803f4229abcd42a359bdeb65ff&",
   ];
 
   useEffect(() => {
